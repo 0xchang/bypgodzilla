@@ -20,5 +20,5 @@ bypgodzilla
     -o string
           set output file
     -p string
-          set password (default "AnQuAnHJ")
+          set password (default "pass")
   ```
